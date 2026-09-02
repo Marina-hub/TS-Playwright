@@ -1,5 +1,5 @@
 # 1. Start from an image that already has Playwright installed
-FROM mcr.microsoft.com/playwright:v1.55.0-noble
+FROM mcr.microsoft.com/playwright:v1.62.1-noble
 
 WORKDIR /TS-Playwright
 COPY . . 
